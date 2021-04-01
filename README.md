@@ -1,4 +1,4 @@
-### 👋  ¡Hola, soy Luis!  🧑‍💻
+## 👋  ¡Hola, soy Luis!  🧑‍💻
 ***
 I am a Ph.D. candidate at the [Department of Network and Data Science](http://networkdatascience.ceu.edu/) at the Central European University. I work with networks 🕸 to analyze cities and improve their mobility infrastructures🚶‍♂️ 🚲
 
@@ -8,4 +8,3 @@ I am a Ph.D. candidate at the [Department of Network and Data Science](http://ne
 - 📫 Email me: [natera@hey.com](mailto:natera@hey.com)
 - 🐦 Twitter: [@natera](https://twitter.com/natera)
 - ✍️ Blogging: [world.hey.com/natera/](https://world.hey.com/natera/)
-- 
