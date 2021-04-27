@@ -1,3 +1,8 @@
+[![Twitter: natera](https://img.shields.io/twitter/follow/natera?style=social)](https://twitter.com/natera)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-nateraluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natera/)](https://www.linkedin.com/in/natera/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/nateraluis?label=follow&style=social)](https://github.com/nateraluis)
+
+
 ## 👋  ¡Hola, soy Luis!  🧑‍💻
 
 I am a Ph.D. candidate at the [Department of Network and Data Science](http://networkdatascience.ceu.edu/) at the Central European University. I work with networks 🕸 to analyze cities and improve their mobility infrastructures🚶‍♂️ 🚲
