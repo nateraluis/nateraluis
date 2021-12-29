@@ -5,7 +5,7 @@
 
 ## 👋  ¡Hola, soy Luis!  🧑‍💻
 
-I am a Ph.D. candidate at the [Department of Network and Data Science](http://networkdatascience.ceu.edu/) at the Central European University. I work with networks 🕸 to analyze cities and improve their mobility infrastructures🚶‍♂️ 🚲
+I am a Ph.D. in Network Science. Currently I work as a Python Modeler for [SYSTEMIQ](https://szstemiq.earth), where I develop models to tackle climate change. Besides my current role I am passionate about using networks 🕸 to analyze cities and improve their mobility infrastructures🚶‍♂️ 🚲
 
 <!-- I am also the Chief Data Scientist at [LAC](https://lac.mx), a consulting firm helping small, medium, and transnational companies to untap the power of data. We are currently developing a data-driven technology tool for the analysis of real estate opportunities. -->
 
