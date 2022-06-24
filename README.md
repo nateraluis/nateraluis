@@ -3,7 +3,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/nateraluis?label=follow&style=social)](https://github.com/nateraluis)
 
 
-## 👋  ¡Hola, soy Luis! 👨‍💻
+## 👋  ¡Hola, I'm Luis! 👨‍💻
 
 I am a Ph.D. in Network Science. Currently I work as a Python Modeler for [SYSTEMIQ](https://systemiq.earth), where I develop models to tackle climate change. Besides my current role I am passionate about using networks 🕸 to analyze cities and improve their mobility infrastructures🚶‍♂️ 🚲
 
