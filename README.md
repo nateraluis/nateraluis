@@ -10,6 +10,7 @@ I am a Ph.D. in Network Science. Currently I work as a Python Modeler for [SYSTE
 <!-- I am also the Chief Data Scientist at [LAC](https://lac.mx), a consulting firm helping small, medium, and transnational companies to untap the power of data. We are currently developing a data-driven technology tool for the analysis of real estate opportunities. -->
 
 ### 🌎  Where to find me:
+- 💻 Web: [luisnatera.com](https://luisnatera.com)
 - 📫 Email me: [natera@hey.com](mailto:natera@hey.com)
 - 🐦 Twitter: [@natera](https://twitter.com/natera)
 - ✍️ Blogging: [world.hey.com/natera/](https://world.hey.com/natera/)
