@@ -14,3 +14,4 @@ I am a Geospatial Network Scientist & Software Developer, with a Ph.D. in Networ
 - ✍️ Blogging: [luisnatera.com/blog](https://luisnatera.com/blog)
 - 📫 Email me: [natera@hey.com](mailto:natera@hey.com)
 - 🐦 Twitter: [@natera](https://twitter.com/natera)
+- <a rel="me" href="https://fosstodon.org/@natera">@natera@fosstodon.org</a>
