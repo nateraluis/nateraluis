@@ -6,10 +6,11 @@
 
 ## 👋  ¡Hola, I'm Luis! 👨‍💻
 
-I am a Geospatial Network Scientist & Software Developer, with a Ph.D. in Network Science from [CEU](https://ceu.edu). Currently I am working as a Software Developer for [SYSTEMIQ](https://systemiq.earth), where I develop models and web applications to tackle climate change. Besides my current role I am passionate about using data and networks 🕸 to analyze cities, and improve their mobility infrastructures🚶‍♂️ 🚲
+I am a Geospatial Network Scientist & Software Developer, with a Ph.D. in Network Science from [CEU](https://ceu.edu). Currently I am working as a Software Developer for [AerLabs](https://aerlabs.com), where I develop models and web applications to tackle climate change, and make aviation more sustainable. Besides my current role I am passionate about using data and networks 🕸 to analyze cities, and improve their mobility infrastructures🚶‍♂️ 🚲
 
 
 ### 🌎  Where to find me:
+- 📨 Newsletter: [buttondown.email/natera](https://buttondown.email/natera)
 - 🌎 Web: [luisnatera.com](https://luisnatera.com)
 - ✍️ Blogging: [luisnatera.com/blog](https://luisnatera.com/blog)
 - 📫 Email me: [natera@hey.com](mailto:natera@hey.com)
